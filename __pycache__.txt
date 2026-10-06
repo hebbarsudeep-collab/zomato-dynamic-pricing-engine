@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.env
-.venv/
-# If your raw Zomato CSV dataset is larger than 100MB, uncomment the line below:
-# *.csv
